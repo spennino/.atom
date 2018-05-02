@@ -1,0 +1,1 @@
+{"digest":"a75074159090263834b5c2907a62120afa08437c","css":".fb-oncall-datatip {\n  font-family: sans-serif;\n  padding: 4px 4px;\n}\n","imports":[{"path":"static/variables/ui-variables.less","digest":"e3029f763111ec391f6dcea8178d35be7c798b4f"},{"path":"static/variables/syntax-variables.less","digest":"812c1b7883a023f768773d14294653adcdb932d7"}],"version":1}

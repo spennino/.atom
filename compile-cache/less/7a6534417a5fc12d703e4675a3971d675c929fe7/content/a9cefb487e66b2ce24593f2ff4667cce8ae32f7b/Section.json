@@ -1,0 +1,1 @@
+{"digest":"4fa86921c8551e17f206fc0e875366306a5777bd","css":".nuclide-ui-section-collapsable {\n  cursor: pointer;\n}\n.nuclide-ui-section-collapsable:hover {\n  color: #e8e6df;\n}\n","imports":[{"path":"/Users/pennino/.atom/packages/spacegray-eighties-ui/styles/ui-variables.less","digest":"1be43d804c359c805edbceedf23338bfc3edc290"}],"version":1}

@@ -1,0 +1,1 @@
+{"source":".nuclide-native-launch-small-text {\n  font-size: 8pt;\n  padding-bottom: 10px;\n}\n.nuclide-native-launch-disabled {\n  opacity: 0.5;\n}\n"}

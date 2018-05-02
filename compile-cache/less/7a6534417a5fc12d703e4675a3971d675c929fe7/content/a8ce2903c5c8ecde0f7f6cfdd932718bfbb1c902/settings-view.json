@@ -1,0 +1,1 @@
+{"digest":"31163444e4d097d27d4b9b1f5c09da0e90a0e8e8","css":".settings-gadgets-pane {\n  width: 100%;\n  overflow-y: auto;\n}\n","imports":[{"path":"static/variables/ui-variables.less","digest":"b28ed6c38c4cfce23f83a1b012a3968aa63fce4c"},{"path":"static/variables/syntax-variables.less","digest":"812c1b7883a023f768773d14294653adcdb932d7"}],"version":1}

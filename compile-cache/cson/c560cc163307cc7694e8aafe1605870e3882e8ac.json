@@ -1,0 +1,1 @@
+{"name":"MagicPython SQL","scopeName":"source.python.sql","injectionSelector":"string.quoted.multi.python, string.regexp.quoted.multi.python, string.quoted.raw.multi.python","patterns":[{"begin":"(?=^\\s*(SELECT|INSERT|UPDATE|DELETE|CREATE|REPLACE|ALTER|WITH))","end":"(?=\\s*(\"\"\"|'''))","patterns":[{"include":"source.sql"}]}]}

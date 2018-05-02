@@ -1,0 +1,1 @@
+{"source":".nuclide-ui-highlight-on-render-highlight {\n  transition: all 0.2s ease-out;\n  color: #d9dbde;\n  text-shadow: 0 0 6px #d9dbde;\n}\n.nuclide-ui-highlight-on-render {\n  flex: 1;\n}\n"}

@@ -1,0 +1,1 @@
+{"source":".fb-file-a-bug-description {\n  display: flex;\n  height: 20em;\n  border: 1px solid #1b1b1b;\n  background: #2d2d2d;\n  padding: 4px;\n}\n"}

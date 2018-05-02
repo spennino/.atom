@@ -1,0 +1,137 @@
+"*":
+  core:
+    automaticallyUpdate: false
+    closeDeletedFileTabs: true
+    closeEmptyWindows: false
+    customFileTypes:
+      "source.ini": [
+        ".hgrc"
+        ".buckconfig"
+        ".flowconfig"
+      ]
+      "source.json": [
+        ".arcconfig"
+        ".jfconfig"
+        ".watchmanconfig"
+        "BUCK.autodeps"
+      ]
+      "source.python": [
+        "BUILD_DEFS"
+        "TARGETS"
+        "bzl"
+        "cconf"
+        "cinc"
+        "ctest"
+        "ctw"
+        "mcconf"
+        "tw"
+        "thrift-cvalidator"
+        "BUCK"
+      ]
+      "source.reason": [
+        ".re"
+      ]
+      "source.yaml": [
+        "yarn.lock"
+      ]
+    disabledPackages: [
+      "metrics"
+      "fuzzy-finder"
+      "linter"
+      "github"
+      "MagicPython"
+      "encoding-selector"
+      "line-ending-selector"
+      "tree-view"
+      "atom-hg"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "**/xplat/**/.*.metadata"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "spring-night-syntax"
+    ]
+  editor:
+    fontSize: 13
+  "exception-reporting":
+    userId: "f4e06fd7-1905-4a61-bdb9-a5a5a3a3b3e7"
+  "file-icons":
+    coloured: false
+  "line-ending-selector":
+    defaultLineEnding: "LF"
+  nuclide:
+    "atom-ide-console":
+      diffUrlPattern: "https://phabricator.intern.facebook.com/%s"
+      taskUrlPattern: "https://our.intern.facebook.com/intern/tasks?t=%s"
+    "fb-arc-lint":
+      blacklistedLinters: [
+        "FBHACK"
+        "FLAKE8"
+        "FLOW"
+        "HACK"
+        "HACKSYNTAX"
+        "PEP8"
+      ]
+    "fb-interactive-smartlog":
+      fetchOption: "jf get"
+    installRecommendedPackages: true
+    "nuclide-hg-repository":
+      enableDiffStats: true
+    "nuclide-home":
+      showHome: false
+    "nuclide-js-imports-client":
+      diagnosticsWhitelist: [
+        "/nuclide"
+        "/www"
+        "/instance-ide"
+        "/xplat/js"
+        "/oculus-skyline"
+        "/Software/Apps/skyline"
+      ]
+      requiresWhitelist: [
+        "/www"
+        "/instance-ide"
+        "/xplat/js"
+      ]
+    "nuclide-remote-projects":
+      connectionProfiles: [
+        {
+          deletable: true
+          displayTitle: "www"
+          params:
+            authMethod: "PRIVATE_KEY"
+            cwd: "/home/pennino/www"
+            pathToPrivateKey: "/Users/pennino/.ssh/fb_id_rsa"
+            remoteServerCommand: ""
+            server: "our.pennino.sb.facebook.com"
+            sshPort: "22"
+            username: "pennino"
+          saveable: true
+        }
+      ]
+    overriddenThirdPartySettings: [
+      "core.closeDeletedFileTabs"
+      "core.closeEmptyWindows"
+      "tool-bar.position"
+      "tool-bar.iconSize"
+      "nuclide.installRecommendedPackages"
+      "file-icons.coloured"
+      "nuclide.atom-ide-console.diffUrlPattern"
+      "nuclide.atom-ide-console.taskUrlPattern"
+    ]
+    use: {}
+  "status-bar": {}
+  "tool-bar":
+    iconSize: "16px"
+    position: "Left"
+  welcome:
+    showOnStartup: false

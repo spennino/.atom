@@ -1,0 +1,1 @@
+{"source":".nuclide-markup-renderer {\n  width: 100%;\n  height: 100%;\n}\n.nuclide-markup-renderer img,\n.nuclide-markup-renderer video {\n  max-width: 450px;\n  height: auto;\n}\n"}

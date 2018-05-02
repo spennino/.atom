@@ -1,0 +1,1 @@
+{"source":".nuclide-navigation-stack-tile {\n  display: flex;\n  height: 100%;\n  align-items: center;\n  float: left;\n}\n.nuclide-btn-group > .btn.nuclide-navigation-stack-button {\n  font-size: 10px;\n}\n"}

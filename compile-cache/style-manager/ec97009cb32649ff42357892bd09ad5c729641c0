@@ -1,0 +1,1 @@
+{"source":".terminal-pane {\n  background-color: #2c3238;\n  padding: 5px;\n}\nhtml .terminal {\n  background-color: transparent;\n  color: #9ea8b3;\n  font-family: Menlo, courier-new, courier, monospace;\n  padding: 5px;\n}\nhtml .terminal .xterm-viewport {\n  background-color: transparent;\n}\n"}

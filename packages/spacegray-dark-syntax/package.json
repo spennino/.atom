@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+        "spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/apm-install-dir-118325-9989-1twnkg7.49v4wpnwmi"
+    ]
+  ],
+  "_from": "../d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+  "_id": "spacegray-dark-syntax@0.2.0",
+  "_inCache": true,
+  "_location": "/spacegray-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+    "spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+  "_shasum": "818d8c156031de20c59b0cc1bb6e916690e75ec5",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-9989-vtc3vf.srmw7v6lxr/package.tgz",
+  "_where": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/apm-install-dir-118325-9989-1twnkg7.49v4wpnwmi",
+  "bugs": {
+    "url": "https://github.com/pauloacmelo/spacegray-dark-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Port of the Spacegray Sublime Theme (Default theme - Dark)",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/pauloacmelo/spacegray-dark-syntax#readme",
+  "license": "MIT",
+  "name": "spacegray-dark-syntax",
+  "optionalDependencies": {},
+  "readme": "# Spacegray Dark Syntax Theme\n\nPort of the [Spacegray](http://kkga.github.io/spacegray) Sublime Theme for Atom Syntax.\n\nBest used with the [Spacegray Dark UI](https://atom.io/packages/spacegray-dark-ui) theme\n\n![Screenshot](http://recordit.co/tJyAZ2p75C.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloacmelo/spacegray-dark-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.2.0"
+}

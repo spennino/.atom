@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+        "spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/apm-install-dir-11842-79606-yywiuc.gn97y6tj4i"
+    ]
+  ],
+  "_from": "../d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+  "_id": "animated-page-scroll@1.2.0",
+  "_inCache": true,
+  "_location": "/animated-page-scroll",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+    "spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+  "_shasum": "32d15e4619bfb6bf82aa32325c470bd0ac0426c8",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-11842-79606-1dg3o0z.gzm7m8to6r/package.tgz",
+  "_where": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/apm-install-dir-11842-79606-yywiuc.gn97y6tj4i",
+  "activationCommands": {},
+  "bugs": {
+    "url": "https://github.com/halohalospecial/atom-animated-page-scroll/issues"
+  },
+  "dependencies": {
+    "gsap": "1.18.2"
+  },
+  "description": "Smooth scrolling Page Up and Page Down.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/halohalospecial/atom-animated-page-scroll#readme",
+  "keywords": [
+    "pageup",
+    "pagedown",
+    "scroll",
+    "scrolling",
+    "animated",
+    "smooth"
+  ],
+  "license": "MIT",
+  "main": "./lib/animated-page-scroll",
+  "name": "animated-page-scroll",
+  "optionalDependencies": {},
+  "readme": "# animated-page-scroll\n[Atom](http://atom.io/) package\n\nSmooth scrolling `Page Up` and `Page Down`.\n\nThis package replaces the default keybindings of `pageup` and `pagedown` in text editors.\n\n```\n'atom-workspace atom-text-editor':\n  'pageup': 'animated-page-scroll:page-up'\n  'pagedown': 'animated-page-scroll:page-down'\n```\n\n### Settings\n\nYou can change the scroll duration and number of rows to scroll in the package settings.\n\n### Screenshot\n\n![page-up/page-down](https://github.com/halohalospecial/atom-animated-page-scroll/blob/master/images/page-up-and-page-down.gif?raw=true)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halohalospecial/atom-animated-page-scroll.git"
+  },
+  "version": "1.2.0"
+}

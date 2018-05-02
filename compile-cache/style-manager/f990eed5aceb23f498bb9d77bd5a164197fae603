@@ -1,0 +1,1 @@
+{"source":".nuclide-ui-resizable-flex-container {\n  display: flex;\n  flex-grow: 1;\n}\n.nuclide-ui-resizable-flex-item {\n  overflow-y: scroll;\n}\n"}

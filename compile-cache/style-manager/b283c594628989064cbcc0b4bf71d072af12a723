@@ -1,0 +1,1 @@
+{"source":"atom-text-editor .new-file-template-container,\natom-text-editor.editor .new-file-template-container {\n  display: flex;\n  font-family: 'BlinkMacSystemFont', 'Lucida Grande', 'Segoe UI', Ubuntu, Cantarell, sans-serif;\n  font-size: 12px;\n  margin: 5px 0;\n  line-height: 20px;\n}\n.nuclide-new-file-template-no-cursor .cursors {\n  display: none;\n}\n"}

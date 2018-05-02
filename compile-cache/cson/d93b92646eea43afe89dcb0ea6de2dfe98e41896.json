@@ -1,0 +1,1 @@
+{"body":{"cmd-ctrl-h":"window:focus-pane-left","cmd-ctrl-j":"window:focus-pane-below","cmd-ctrl-k":"window:focus-pane-above","cmd-ctrl-l":"window:focus-pane-right","ctrl-w s":"pane:split-down-and-copy-active-item","ctrl-w v":"pane:split-right-and-move-active-item"}}

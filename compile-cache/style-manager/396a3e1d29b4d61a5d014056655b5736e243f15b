@@ -1,0 +1,1 @@
+{"source":".nuclide-ui-show-more-component {\n  position: relative;\n}\n.nuclide-ui-show-more-gradient {\n  height: 2em;\n  width: 100%;\n  background: linear-gradient(to bottom, rgba(0, 43, 54, 0.05), #003b4a);\n  position: absolute;\n  bottom: 0;\n}\n.nuclide-ui-show-more-button-container {\n  text-align: right;\n  padding-top: .5em;\n  padding-right: 1em;\n}\n"}

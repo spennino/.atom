@@ -1,0 +1,1 @@
+{"source":".fb-neuralcodesearch-provider-result .context {\n  color: rgba(163, 168, 174, 0.6);\n  margin-left: 22px;\n}\n.fb-neuralcodesearch-provider-result .context.selected {\n  color: #a3a8ae;\n}\n.fb-neuralcodesearch-provider-result .keyword {\n  margin-left: 0.25em;\n  margin-right: 0.25em;\n  font-family: Menlo, Monaco, Consolas, monospace;\n  font-size: 11px;\n}\n"}

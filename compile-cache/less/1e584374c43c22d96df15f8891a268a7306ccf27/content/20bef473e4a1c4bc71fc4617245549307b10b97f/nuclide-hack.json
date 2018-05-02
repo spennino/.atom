@@ -1,0 +1,1 @@
+{"digest":"748f0112ad85b15b78074e7a7e2f2d786fcad18b","css":".php-icon.php-icon:before {\n  content: \"\\e9ce\";\n  font-size: 16px;\n}\n","imports":[{"path":"static/variables/ui-variables.less","digest":"b28ed6c38c4cfce23f83a1b012a3968aa63fce4c"},{"path":"static/variables/syntax-variables.less","digest":"812c1b7883a023f768773d14294653adcdb932d7"}],"version":1}

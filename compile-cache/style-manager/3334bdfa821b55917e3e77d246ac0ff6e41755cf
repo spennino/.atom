@@ -1,0 +1,1 @@
+{"source":".nuclide-test-runner-root {\n  display: flex;\n}\n.nuclide-test-runner-panel {\n  display: flex;\n  flex: 1;\n  flex-direction: column;\n  /* Nest selector to beat specificity of dropdown's own styles. */\n}\n.nuclide-test-runner-panel .nuclide-test-runner__runner-dropdown {\n  display: flex;\n}\n.nuclide-test-runner-console {\n  display: flex;\n  flex: 1;\n}\n"}

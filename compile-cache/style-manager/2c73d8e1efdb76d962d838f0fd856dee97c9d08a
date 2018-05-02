@@ -1,0 +1,1 @@
+{"source":".nuclide-ui-multi-root-file-tree-container {\n  display: flex;\n  flex: 1;\n  flex-direction: column;\n  overflow-y: auto;\n  position: relative;\n}\n"}

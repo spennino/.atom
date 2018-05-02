@@ -1,0 +1,1 @@
+{"source":"atom-panel.modal.nuclide-adb-sdb-custom-path-modal {\n  width: 500px;\n}\n.nuclide-adb-sdb-custom-path-input {\n  margin-top: 5px;\n}\n.nuclide-adb-sdb-custom-path-footer {\n  display: flex;\n  justify-content: flex-end;\n}\n.nuclide-adb-sdb-path {\n  display: flex;\n  flex-direction: column;\n}\n.nuclide-adb-sdb-copy-path-btn {\n  width: min-content;\n}\n"}

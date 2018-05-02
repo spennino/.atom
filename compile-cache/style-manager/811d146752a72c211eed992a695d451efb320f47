@@ -1,0 +1,1 @@
+{"source":".fb-sparse-file-preview {\n  display: flex;\n  flex-direction: column;\n  height: 100%;\n  position: absolute;\n  width: 100%;\n}\n.fb-sparse-file-preview-text-editor {\n  flex: 1;\n}\n"}

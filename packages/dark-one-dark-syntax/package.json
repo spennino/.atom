@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+        "spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/apm-install-dir-118325-12153-j688bv.n9ol9jm7vi"
+    ]
+  ],
+  "_from": "../d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+  "_id": "dark-one-dark-syntax@2.3.0",
+  "_inCache": true,
+  "_location": "/dark-one-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+    "spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+  "_shasum": "cd801d55b472297e9ea4724aed0faca78b043f4e",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/d-118325-12153-146tgk.m4xlp7gb9/package.tgz",
+  "_where": "/private/var/folders/bv/89bbbhsj7d54htvgr7q1mncdgd15dd/T/apm-install-dir-118325-12153-j688bv.n9ol9jm7vi",
+  "bugs": {
+    "url": "https://github.com/mgovea/dark-one-dark-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A syntax theme based on 'One Dark'. Modified to be slightly higher contrast.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/mgovea/dark-one-dark-syntax#readme",
+  "keywords": [
+    "dark",
+    "darker",
+    "one dark",
+    "onedark",
+    "syntax"
+  ],
+  "license": "MIT",
+  "name": "dark-one-dark-syntax",
+  "optionalDependencies": {},
+  "readme": "## One Dark Syntax theme\n\n![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)\n\n> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).\n\nThere is also a matching [UI theme](https://atom.io/themes/one-dark-ui).\n\n### Install\n\nThis theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgovea/dark-one-dark-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "2.3.0"
+}
